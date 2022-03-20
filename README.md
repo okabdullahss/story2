@@ -1,2 +1,2 @@
-# story2
+# story2 ///
 my master piece 2
